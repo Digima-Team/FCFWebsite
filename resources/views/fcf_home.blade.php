@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
+  @vite('resources/css/app.css')
   <title>FCFWebsite</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
@@ -200,18 +200,20 @@
         <div class="row">
             <div class="col-3">
                 <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</a>
-                <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</a>
-                <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Messages</a>
-                <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</a>
+                <a class="nav-link active border-b" id="about-us-tab" data-toggle="pill" href="#about-us" role="tab" aria-controls="about-us" aria-selected="true">ABOUT US </a>
+                <a class="nav-link border-b" id="vision-mission-values-tab" data-toggle="pill" href="#vision-mission-values" role="tab" aria-controls="vision-mission-values" aria-selected="false">Vision-Mission-Values</a>
+                <a class="nav-link border-b" id="executive-management-tab" data-toggle="pill" href="#executive-management" role="tab" aria-controls="executive-management" aria-selected="false">Executive Management</a>
+                <a class="nav-link border-b" id="management-team-tab" data-toggle="pill" href="#management-team" role="tab" aria-controls="management-team" aria-selected="false">Management Team</a>
+                <a class="nav-link border-b" id="history-tab" data-toggle="pill" href="#history" role="tab" aria-controls="history" aria-selected="false">History</a>
                 </div>
             </div>
             <div class="col-9">
                 <div class="tab-content" id="v-pills-tabContent">
-                <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">...Home</div>
-                <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">...Profile</div>
-                <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">...Messages</div>
-                <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">...Settings</div>
+                <div class="tab-pane fade show active" id="about-us" role="tabpanel" aria-labelledby="v-pills-home-tab">...ABOUT US</div>
+                <div class="tab-pane fade" id="vision-mission-values" role="tabpanel" aria-labelledby="vision-mission-values-tab">...Vision-Mission-Values</div>
+                <div class="tab-pane fade" id="executive-management" role="tabpanel" aria-labelledby="executive-management-tab">...Executive Management</div>
+                <div class="tab-pane fade" id="management-team" role="tabpanel" aria-labelledby="management-team-tab">...Management Team</div>
+                <div class="tab-pane fade" id="history" role="tabpanel" aria-labelledby="history-tab">...History</div>
                 </div>
             </div>
         </div>
@@ -1007,7 +1009,7 @@
             <div class="footer-content">
               <div class="footer-head">
                 <div class="footer-logo">
-                  <h2><span>e</span>Business</h2>
+                  <h2><span>FCF</span>Website</h2>
                 </div>
 
                 <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
@@ -1071,7 +1073,7 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="copyright text-center">
               <p>
-                &copy; Copyright <strong>eBusiness</strong>. All Rights Reserved
+                &copy; Copyright <strong>FCFWebsite</strong>. All Rights Reserved
               </p>
             </div>
             <div class="credits">
@@ -1081,7 +1083,7 @@
               Licensing information: https://bootstrapmade.com/license/
               Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
             -->
-              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+              Designed by <a href="#">JONARTDev</a>
             </div>
           </div>
         </div>
@@ -1107,3 +1109,21 @@
 </body>
 
 </html>
+  <script>
+  function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+  }
+
+  // Get the element with id="defaultOpen" and click on it
+  document.getElementById("defaultOpen").click();
+</script>
