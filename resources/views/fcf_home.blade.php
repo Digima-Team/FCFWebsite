@@ -4,7 +4,6 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  @vite('resources/css/app.css')
   <title>FCFWebsite</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
@@ -27,7 +26,7 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <!-- =======================================================
   * Template Name: eBusiness - v4.7.0
   * Template URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
@@ -42,14 +41,18 @@
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex justify-content-between">
 
-      <div class="logo">
-        <h1><a href="index.html"><img src="assets/img/FCFlogo.jpg" width="100" height="345"><span>FCF</span>Website</a></h1>
+      <div class="logo mt-3">
+        <h1><a href="index.html">
+          <!-- <img src="assets/img/FCFlogo.jpg"  width="100" height="245" > -->
+        <span>FCF</span>Website</a>
+      </h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
+          <li><a class="nav-link scrollto active" href="#hero"></a></li>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li class="dropdown nav-link scrollto"><a href="#about"><span>About Us</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -150,12 +153,56 @@
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="section-headline text-center">
-              <h2>About FCF</h2>
+              <h2>About FCF Minerals Corporation</h2>
             </div>
           </div>
         </div>
-        <div class="row">
-          <!-- single-well start-->
+        
+        <div class="row">          
+          <p > 
+            FCF Minerals Corporation is a mining company engaged in the production of gold dore through the Runruno Gold Project.
+            The company was incorporated in 2011 with office operations based in Makati City, Philippines. FCF became a wholly-owned subsidiary of Metals Exploration Plc.
+            (MEP) in September 2005, a company registered with the London Stock Exhange and admitted to the Alternative Investment Market. 
+          </p>
+          <p>
+            It is located in Barangay Runruno, Quezon, Nueva Vizcaya. 280 KM North of Manila and 29 KM east of Solano, Nueva Vizcaya.
+          </p>
+          <p>
+            Its FTAA area is 3,093.51 hectares. Total project footprint is approximately 420 hectares and the project's estimated mine life is 10.3 years.
+          </p>
+            <!-- <div class="col-3">
+                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                <a class="nav-link active border-b-2" id="about-us-tab" data-toggle="pill" href="#about-us" role="tab" aria-controls="about-us" aria-selected="true">ABOUT US </a>
+                <a class="nav-link border-b" id="vision-mission-values-tab" data-toggle="pill" href="#vision-mission-values" role="tab" aria-controls="vision-mission-values" aria-selected="false">Vision-Mission-Values</a>
+                <a class="nav-link border-b" id="executive-management-tab" data-toggle="pill" href="#executive-management" role="tab" aria-controls="executive-management" aria-selected="false">Executive Management</a>
+                <a class="nav-link border-b" id="management-team-tab" data-toggle="pill" href="#management-team" role="tab" aria-controls="management-team" aria-selected="false">Management Team</a>
+                <a class="nav-link border-b" id="history-tab" data-toggle="pill" href="#history" role="tab" aria-controls="history" aria-selected="false">History</a>
+                </div>
+            </div>
+            <div class="col-9">
+                <div class="tab-content" id="v-pills-tabContent">
+                <div class="tab-pane fade show active" id="about-us" role="tabpanel"  aria-labelledby="v-pills-home-tab">
+                  <p > 
+                    FCF Minerals Corporation is a mining company engaged in the production of gold dore through the Runruno Gold Project.
+                    The company was incorporated in 2011 with office operations based in Makati City, Philippines. FCF became a wholly-owned subsidiary of Metals Exploration Plc.
+                    (MEP) in September 2005, a company registered with the London Stock Exhange and admitted to the Alternative Investment Market. 
+                  </p>
+                  <p>
+                    It is located in Barangay Runruno, Quezon, Nueva Vizcaya. 280 KM North of Manila and 29 KM east of Solano, Nueva Vizcaya.
+                  </p>
+                  <p>
+                    Its FTAA area is 3,093.51 hectares. Total project footprint is approximately 420 hectares and the project's estimated mine life is 10.3 years.
+                  </p>
+                </div>
+                <div class="tab-pane fade" id="vision-mission-values" role="tabpanel" aria-labelledby="vision-mission-values-tab">...Vision-Mission-Values</div>
+                <div class="tab-pane fade" id="executive-management" role="tabpanel" aria-labelledby="executive-management-tab">...Executive Management</div>
+                <div class="tab-pane fade" id="management-team" role="tabpanel" aria-labelledby="management-team-tab">...Management Team</div>
+                <div class="tab-pane fade" id="history" role="tabpanel" aria-labelledby="history-tab">...History</div>
+                </div>
+            </div>                             -->
+        </div>
+
+        <!-- <div class="row">
           <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="well-left">
               <div class="single-well">
@@ -165,7 +212,6 @@
               </div>
             </div>
           </div>
-          <!-- single-well end-->
           <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="well-middle">
               <div class="single-well">
@@ -194,35 +240,154 @@
                 </ul>
               </div>
             </div>
-          </div>
-          <!-- End col-->          
+          </div>    
+        </div>         -->
+      </div>      
+    </div><!-- End About Section -->
+    <div style="background-color: #e2e7eb">
+      <div class="row">
+        <div class="col-md-2">
         </div>
-        <div class="row">
-            <div class="col-3">
-                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                <a class="nav-link active border-b" id="about-us-tab" data-toggle="pill" href="#about-us" role="tab" aria-controls="about-us" aria-selected="true">ABOUT US </a>
-                <a class="nav-link border-b" id="vision-mission-values-tab" data-toggle="pill" href="#vision-mission-values" role="tab" aria-controls="vision-mission-values" aria-selected="false">Vision-Mission-Values</a>
-                <a class="nav-link border-b" id="executive-management-tab" data-toggle="pill" href="#executive-management" role="tab" aria-controls="executive-management" aria-selected="false">Executive Management</a>
-                <a class="nav-link border-b" id="management-team-tab" data-toggle="pill" href="#management-team" role="tab" aria-controls="management-team" aria-selected="false">Management Team</a>
-                <a class="nav-link border-b" id="history-tab" data-toggle="pill" href="#history" role="tab" aria-controls="history" aria-selected="false">History</a>
-                </div>
-            </div>
-            <div class="col-9">
-                <div class="tab-content" id="v-pills-tabContent">
-                <div class="tab-pane fade show active" id="about-us" role="tabpanel" aria-labelledby="v-pills-home-tab">...ABOUT US</div>
-                <div class="tab-pane fade" id="vision-mission-values" role="tabpanel" aria-labelledby="vision-mission-values-tab">...Vision-Mission-Values</div>
-                <div class="tab-pane fade" id="executive-management" role="tabpanel" aria-labelledby="executive-management-tab">...Executive Management</div>
-                <div class="tab-pane fade" id="management-team" role="tabpanel" aria-labelledby="management-team-tab">...Management Team</div>
-                <div class="tab-pane fade" id="history" role="tabpanel" aria-labelledby="history-tab">...History</div>
-                </div>
-            </div>
+        <!-- end single footer -->
+        <div class="col-md-5 mt-2">
+          <p>SHARE PRICE: 2.10 GBp<span> <i class="fa fa-arrow-up"></i> 0.05(2.44%)</span></p> 
+        </div>
+        <!-- end single footer -->
+        <div class="col-md-5 mt-2">
+          <p>TICKER:(LSE AIM:MTL)<span>SHARE PRICE DELAYED BY 20 MINUTES</span></p> 
         </div>
       </div>
-    </div><!-- End About Section -->
+    </div>
+    <div id="portfolio" class="portfolio-area area-padding fix">
+      <div class="container">
+        <div class="row awesome-project-content portfolio-container">
+
+          <!-- portfolio-item start -->
+          <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-web">
+            <div class="single-awesome-project">
+              <div class="awesome-img">
+                <a href="#"><img src="assets/img/portfolio/1A.jpg" alt="" /></a>
+                <div class="add-actions text-center">
+                  <div class="project-dec">
+                    <a class="portfolio-lightbox mt-20" data-gallery="myGallery" href="assets/img/portfolio/1A.jpg">
+                      <h4 style="font-size:14px;">New Announcements</h4>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- portfolio-item end -->
+
+          <!-- portfolio-item start -->
+          <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-web">
+            <div class="single-awesome-project">
+              <div class="awesome-img">
+                <a href="#"><img src="assets/img/portfolio/2A.jpg" alt="" /></a>
+                <div class="add-actions text-center">
+                  <div class="project-dec">
+                    <a class="portfolio-lightbox" data-gallery="myGallery" href="assets/img/portfolio/2A.jpg">
+                      <h4 style="font-size:14px;">Results & Reports</h4>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- portfolio-item end -->
+
+          <!-- portfolio-item start -->
+          <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-web">
+            <div class="single-awesome-project">
+              <div class="awesome-img">
+                <a href="#"><img src="assets/img/portfolio/3A.jpg" alt="" /></a>
+                <div class="add-actions text-center">
+                  <div class="project-dec">
+                    <a class="portfolio-lightbox" data-gallery="myGallery" href="assets/img/portfolio/3A.jpg">
+                      <h4 style="font-size:14px;">Presentations</h4>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- portfolio-item end -->
+
+        </div>
+      </div>
+    </div><!-- End Portfolio Section -->
+
 
     <!-- ======= Services Section ======= -->
     <div id="services" class="services-area area-padding">
-      <div class="container">
+      <div class="row p-2" style="background-color:#dcaa0a; color:#fff !important;">
+        <div class="col-md-6">
+          <!-- Start Map -->
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+          <!-- End Map -->
+        </div>
+        <!-- End Google Map -->
+
+        <!-- Start  contact -->
+        <div class="col-md-6">            
+            <div class="align-items-center">
+              <div class="px-5 py-5 py-lg-0" >
+                <h2>Runruno Gold Project</h2>
+                <p>Runruno is located in the mineral rich province of Nueva Viscaya. 
+                  The area has been known to be prospective in gold and other precious metals since the early 1960's. 
+                  Nueva Vizcaya is a landlocked province located on the island of Luzon, which is the largest and most populous island in the Philippines.
+                  The project lies immediately downstream from the village og Runruno.
+                </p>
+                <p>
+                  The mine has been in production since 2016 and is currently the fourth largest operating gold mine in the philippines with the last few years seeing a significant turnaround in the operational performance of the plant and the mine overall.
+                </p>
+                <p>
+                  Runruno contains gold reserves of 31.6Mt with an average gold grade of 1.38g/t and forecast gold production for 2021 range between 60,000 - 65,000 oz/pa.
+                </p>
+                <a  style="color:#fff !important;" href="#">--- Find out more </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="suscribe-area" style="background-color:#245967;">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12">
+                <div class="suscribe-text text-center">
+                  <h3 style="font-weight: bold;">At a glance</h3>
+                  <p style="color:#fff !important;">Metals Exploration owns and operates the low cost Runruno Gold Mine in the mineral rich province of Nueva Vizcaya, Philippines, which it developed from greenfield to production</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-12 col-sm-12 col-xs=12">
+                <div class="suscribe-text text-center">
+                  <h3 style="border-bottom: 1px solid white;">31.6Mt</h3>
+                  <p style="color:#fff !important;">Runruno contains gold inventories of 31.6Mt with an average gold grade of 1.12g/t or 1.14Moz based on a 0.3g/t cut-off grade.</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-12 col-sm-12 col-xs=12">
+                <div class="suscribe-text text-center">
+                  <h3 style="border-bottom: 1px solid white;">98%</h3>
+                  <p style="color:#fff !important;">Fully permitted. world class environmental standards, 98% Filipino workforce of which 27% are female.</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-12 col-sm-12 col-xs=12">
+                <div class="suscribe-text text-center">
+                  <h3 style="border-bottom: 1px solid white;">US<span>&#36;</span>300m</h3>
+                  <p style="color:#fff !important;">US<span>&#36;</span>300m invested to date.</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-12 col-sm-12 col-xs=12">
+                <div class="suscribe-text text-center">
+                  <h3 style="border-bottom: 1px solid white;">US<span>&#36;</span>122m</h3>
+                  <p style="color:#fff !important;">FY2020 revenue of US<span>&#36;</span>122m.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="container">        
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="section-headline services-head text-center">
@@ -899,7 +1064,7 @@
         <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12">
             <div class="suscribe-text text-center">
-              <h3>Welcome to our eBusiness company</h3>
+              <h3>Welcome to FCFWebsite</h3>
               <a class="sus-btn" href="#">Get A quote</a>
             </div>
           </div>
