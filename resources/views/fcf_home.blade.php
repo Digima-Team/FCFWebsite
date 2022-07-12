@@ -9,7 +9,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/FCFlogo.jpg" rel="icon">
+  <link href="assets/img/FCFlogo.png" rel="icon">
   <!-- <link href="assets/img/FCFlogo.jpg" rel="apple-touch-icon"> -->
 
   <!-- Google Fonts -->
@@ -43,8 +43,8 @@
 
       <div class="logo mt-3">
         <h1><a href="index.html">
-          <!-- <img src="assets/img/FCFlogo.jpg"  width="100" height="245" > -->
-        <span>FCF</span>Website</a>
+          <img src="assets/img/FCFlogo.png"  width="110" height="350" >
+        <!-- <span>FCF</span>Website</a> -->
       </h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
@@ -386,7 +386,200 @@
           </div>
         </div>
       </div>
+      <div style="background-color:#e2e7eb; margin-top:-80px; padding: 50px">
+        <div class="container">
+          <div class="row">              
+            <div class="col-md-12 col-sm-12 col-xs-12">  
+              <h4 style="font-weight: bold;color:#245967;">Highlighted company news</h4>
+            </div>          
+          </div>
+          <div class="row pri_table_list"  style="text-align:left;">    
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+              <div style="border-bottom: 1px solid black">
+                <p style="font-weight: bold;color:#245967;">Standard form for notification of major holdings</p>
+                <p style="margin-top: -20px">1 July 2021</p>    
+              </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+              <div style="border-bottom: 1px solid black">
+                <p style="font-weight: bold;color:#245967;">Result of AGM</p>
+                <p style="margin-top: -20px">30 July 2021</p>    
+              </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+              <div style="border-bottom: 1px solid black">
+                <p style="font-weight: bold;color:#245967;">Annual General Meeting Arrangements</p>
+                <p style="margin-top: -20px">17 June 2021</p>    
+              </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+              <div style="border-bottom: 1px solid black">
+                <p style="font-weight: bold;color:#245967;">Posting of Annual Report and Notice of AGM</p>
+                <p style="margin-top: -20px">7 June 2021</p>    
+              </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+              <div style="border-bottom: 1px solid black">
+                <p style="font-weight: bold;color:#245967;">Notice of AGM</p>
+                <p style="margin-top: -20px">7 June 2021</p>    
+              </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3" >
+              <div style="border-bottom: 1px solid black">
+                <p style="font-weight: bold;">Proxy Form</p>
+                <p style="margin-top: -20px">7 June 2021</p>    
+              </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+              <div style="border-bottom: 1px solid black">
+                <p style="font-weight: bold;color:#245967;">Investor Presentation Webinar - May 2021</p>
+                <p style="margin-top: -20px">28 May 2021</p>    
+              </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+              <div style="border-bottom: 1px solid black">
+                <p style="font-weight: bold;color:#245967;">Investor Presentation</p>
+                <p style="margin-top: -20px">25 May 2021</p>    
+              </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3 mb-3">
+              <div style="border-bottom: 1px solid black">
+                <p style="font-weight: bold;color:#245967;">Report and Accounts for Year Ended 31 December 2020</p>
+                <p style="margin-top: -20px">21 May 2021</p>    
+              </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3 mb-3">
+              <div style="border-bottom: 1px solid black">
+                <p style="font-weight: bold;color:#245967;">Financial Statements for Year Ended 31 December 2020</p>
+                <p style="margin-top: -20px">21 May 2021</p>    
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container" style="padding-top:50px;">
+        <div class="row">
+          <div class="col-md-6 col-sm-6 col-xs-12" style="margin-bottom:30px;">
+            <div class="well-left">
+              <div class="single-well">
+                <a href="#">
+                  <img src="assets/img/about/PPOoverview1.jpg" alt="">
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class="well-middle">
+              <div class="single-well">
+                <a href="#">
+                  <h3 class="sec-head" style="font-weight: bold;color:#245967;">Environment and social sustainability</h3>
+                </a>
+                <p>
+                  Runruno has been producing gold without any community or government
+                  enforced stoppages since 2016 which illustrates the strong local relationships 
+                  which Metals Exploration has built over the years in region, 98% of the workforce
+                  at the mine are Filipinos with 27% of the workforce being women, many as higher 
+                  paid supervisors and equipment operators. Prior to Runruno, the region had no 
+                  formal employment sector, and thus the mine operation has significantly
+                  increased the average standard of living in the region. Runruno's environmental
+                  performance has been recognized with numerous awards. Most recently during 
+                  2020. Metals Exploration was the mining industry overall winner of the Philippine
+                  government Best Forestry Management Programme award.
+                </p>
+                <a  style="color:#d9ab0d!important;" href="#">--- Find out more </a>
+              </div>
+            </div>
+          </div>  
+        </div> 
+        <div class="row"> 
+          <div class="col-md-6 col-sm-6 col-xs-12"> 
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+              <div class="single-blog">
+                <div class="single-blog-img">
+                  <a href="blog.html">
+                    <img src="assets/img/blog/esgOverView.jpg" alt="">
+                  </a>
+                </div>                
+              </div>  
+              <h5>
+                <a style="color:#d9ab0d!important;" href="#">--- ESG overview</a>
+              </h5>  
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+              <div class="single-blog">
+                <div class="single-blog-img">
+                  <a href="blog.html">
+                    <img src="assets/img/blog/minetour.jpg" alt="">
+                  </a>
+                </div>
+              </div>
+              <h5>
+                <a style="color:#d9ab0d!important;" href="#"></a>
+              </h5>  
+            </div>   
+          </div>  
+        </div>    
+        
+        
+        <div class="contact-overly"></div>
+        <div class="container ">
+          <div class="row">
+            <div class="col-md-6">     
+            </div>
+
+            <!-- Start  contact -->
+            <div class="col-md-6">
+                
+            </div>
+            <!-- End Left contact -->
+          </div>
+        </div>
       
+
+        <div class="row">
+          <!-- end single footer -->
+          <div class="col-md-6">
+            <div class="pri_table_list"  style="text-align:left; background-color:#e2e7eb;">    
+              <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                <p style="font-weight: bold;color:#245967;">Employment</p>
+                <p style="margin-top: -20px">High levels of local employment in Barangay which previously had no formal employment sector </p>    
+              </div>
+              <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                <p style="font-weight: bold;color:#245967;">Economy</p>
+                <p style="margin-top: -20px">1.5% of direct mining and processing operating costs committed annually to Community Relations office</p>    
+              </div>
+              <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                <p style="font-weight: bold;color:#245967;">Health and education</p>
+                <p style="margin-top: -20px">Improved health and educational outcomes via health initiatives and learning programmes</p>    
+              </div>
+              <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                <p style="font-weight: bold;color:#245967;">Infrastructure</p>
+                <p style="margin-top: -20px">Development of community facilities including bridges, electricity provision and water distribution</p>    
+              </div>
+              <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                <p style="font-weight: bold;color:#245967;">Environment</p>
+                <p style="margin-top: -20px">Award winning mine rehabilitation and impact mitigation programmes</p>    
+              </div>
+            </div>  
+          </div>
+          <!-- end single footer -->
+          <div class="col-md-6">
+            <div class="footer-content">
+              <div class="footer-head">
+                <div class="flicker-img" >
+                  <a href="#"><img src="assets/img/portfolio/esgOverView.jpg" alt="" style="color:#d9ab0d!important; "> - ESG overview </a>
+                  <a href="#"><img src="assets/img/portfolio/minetour.jpg" alt="" style="color:#d9ab0d!important;"> - Community initiatives</a>
+                  <a href="#"><img src="assets/img/portfolio/MinePit.jpg" alt="" style="color:#d9ab0d!important;"> - Mining operations </a>
+                  <a href="#"><img src="assets/img/portfolio/PPO1.jpg" alt="" style="color:#d9ab0d!important;"> - Company history</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+  
+      </div>
+
       <div class="container">        
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
