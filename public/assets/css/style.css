@@ -324,7 +324,7 @@ div#preloader {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #3ec1d5;
+  color: #dcaa0a;
 }
 .navbar .dropdown ul {
   display: block;
@@ -461,7 +461,7 @@ div#preloader {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #3ec1d5;
+  color: #dcaa0a;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;

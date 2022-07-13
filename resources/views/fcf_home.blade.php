@@ -42,7 +42,7 @@
     <div class="container d-flex justify-content-between">
 
       <div class="logo mt-3">
-        <h1><a href="index.html">
+        <h1><a href="/">
           <img src="assets/img/FCFlogo.png"  width="110" height="350" >
         <!-- <span>FCF</span>Website</a> -->
       </h1>
@@ -53,8 +53,8 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero"></a></li>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li class="dropdown nav-link scrollto"><a href="#about"><span>About Us</span> <i class="bi bi-chevron-down"></i></a>
+          <li><a class="nav-link scrollto active" href="#hero">HOME</a></li>
+          <li class="dropdown nav-link scrollto"><a href="#about"><span>ABOUT US</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Introduction</a></li>              
               <li><a href="#">Board of Directors</a></li>
@@ -145,7 +145,7 @@
     </div>
   </section><!-- End Hero Section -->
 
-  <main id="main">
+  <main id="main" style="margin-bottom:50px;">
 
     <!-- ======= About Section ======= -->
     <div id="about" class="about-area area-padding">
@@ -249,11 +249,11 @@
         <div class="col-md-2">
         </div>
         <!-- end single footer -->
-        <div class="col-md-5 mt-2">
+        <div class="col-md-5 mt-2 pl-5 pr-5">
           <p>SHARE PRICE: 2.10 GBp<span> <i class="fa fa-arrow-up"></i> 0.05(2.44%)</span></p> 
         </div>
         <!-- end single footer -->
-        <div class="col-md-5 mt-2">
+        <div class="col-md-5 mt-2 pl-5 pr-5 ">
           <p>TICKER:(LSE AIM:MTL)<span>SHARE PRICE DELAYED BY 20 MINUTES</span></p> 
         </div>
       </div>
@@ -490,51 +490,9 @@
               </div>
             </div>
           </div>  
-        </div> 
-        <div class="row"> 
-          <div class="col-md-6 col-sm-6 col-xs-12"> 
-            <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
-              <div class="single-blog">
-                <div class="single-blog-img">
-                  <a href="blog.html">
-                    <img src="assets/img/blog/esgOverView.jpg" alt="">
-                  </a>
-                </div>                
-              </div>  
-              <h5>
-                <a style="color:#d9ab0d!important;" href="#">--- ESG overview</a>
-              </h5>  
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
-              <div class="single-blog">
-                <div class="single-blog-img">
-                  <a href="blog.html">
-                    <img src="assets/img/blog/minetour.jpg" alt="">
-                  </a>
-                </div>
-              </div>
-              <h5>
-                <a style="color:#d9ab0d!important;" href="#"></a>
-              </h5>  
-            </div>   
-          </div>  
-        </div>    
+        </div>         
         
-        
-        <div class="contact-overly"></div>
-        <div class="container ">
-          <div class="row">
-            <div class="col-md-6">     
-            </div>
-
-            <!-- Start  contact -->
-            <div class="col-md-6">
-                
-            </div>
-            <!-- End Left contact -->
-          </div>
-        </div>
-      
+        <div class="contact-overly"></div>      
 
         <div class="row">
           <!-- end single footer -->
@@ -575,12 +533,10 @@
               </div>
             </div>
           </div>
-        </div>
-      
-  
+        </div>    
       </div>
 
-      <div class="container">        
+    <!-- <div class="container">        
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="section-headline services-head text-center">
@@ -589,7 +545,6 @@
           </div>
         </div>
         <div class="row text-center">
-          <!-- Start Left services -->
           <div class="col-md-4 col-sm-4 col-xs-12">
             <div class="about-move">
               <div class="services-details">
@@ -603,7 +558,6 @@
                   </p>
                 </div>
               </div>
-              <!-- end about-details -->
             </div>
           </div>
           <div class="col-md-4 col-sm-4 col-xs-12">
@@ -619,11 +573,9 @@
                   </p>
                 </div>
               </div>
-              <!-- end about-details -->
             </div>
           </div>
           <div class="col-md-4 col-sm-4 col-xs-12">
-            <!-- end col-md-4 -->
             <div class=" about-move">
               <div class="services-details">
                 <div class="single-services">
@@ -636,11 +588,9 @@
                   </p>
                 </div>
               </div>
-              <!-- end about-details -->
             </div>
           </div>
           <div class="col-md-4 col-sm-4 col-xs-12">
-            <!-- end col-md-4 -->
             <div class=" about-move">
               <div class="services-details">
                 <div class="single-services">
@@ -653,12 +603,9 @@
                   </p>
                 </div>
               </div>
-              <!-- end about-details -->
             </div>
           </div>
-          <!-- End Left services -->
           <div class="col-md-4 col-sm-4 col-xs-12">
-            <!-- end col-md-4 -->
             <div class=" about-move">
               <div class="services-details">
                 <div class="single-services">
@@ -671,12 +618,9 @@
                   </p>
                 </div>
               </div>
-              <!-- end about-details -->
             </div>
           </div>
-          <!-- End Left services -->
           <div class="col-md-4 col-sm-4 col-xs-12">
-            <!-- end col-md-4 -->
             <div class=" about-move">
               <div class="services-details">
                 <div class="single-services">
@@ -689,15 +633,15 @@
                   </p>
                 </div>
               </div>
-              <!-- end about-details -->
             </div>
           </div>
         </div>
       </div>
-    </div><!-- End Services Section -->
+    </div> -->
+    <!-- End Services Section -->
 
     <!-- ======= Team Section ======= -->
-    <div id="team" class="our-team-area area-padding">
+    <!-- <div id="team" class="our-team-area area-padding">
       <div class="container">
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
@@ -739,7 +683,6 @@
               </div>
             </div>
           </div>
-          <!-- End column -->
           <div class="col-md-3 col-sm-3 col-xs-12">
             <div class="single-team-member">
               <div class="team-img">
@@ -772,7 +715,6 @@
               </div>
             </div>
           </div>
-          <!-- End column -->
           <div class="col-md-3 col-sm-3 col-xs-12">
             <div class="single-team-member">
               <div class="team-img">
@@ -805,7 +747,6 @@
               </div>
             </div>
           </div>
-          <!-- End column -->
           <div class="col-md-3 col-sm-3 col-xs-12">
             <div class="single-team-member">
               <div class="team-img">
@@ -838,13 +779,13 @@
               </div>
             </div>
           </div>
-          <!-- End column -->
         </div>
       </div>
-    </div><!-- End Team Section -->
+    </div> -->
+    <!-- End Team Section -->
 
-    <!-- ======= Rviews Section ======= -->
-    <div class="reviews-area">
+    <!-- ======= Reviews Section ======= -->
+    <!-- <div class="reviews-area">
       <div class="row g-0">
         <div class="col-lg-6">
           <img src="assets/img/about/2.jpg" alt="" class="img-fluid">
@@ -857,10 +798,11 @@
           </div>
         </div>
       </div>
-    </div><!-- End Rviews Section -->
+    </div> -->
+    <!-- End Reviews Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <div id="portfolio" class="portfolio-area area-padding fix">
+    <!-- <div id="portfolio" class="portfolio-area area-padding fix">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -870,7 +812,6 @@
           </div>
         </div>
         <div class="row wesome-project-1 fix">
-          <!-- Start Portfolio -page -->
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
@@ -882,8 +823,6 @@
         </div>
 
         <div class="row awesome-project-content portfolio-container">
-
-          <!-- portfolio-item start -->
           <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-app portfolio-item">
             <div class="single-awesome-project">
               <div class="awesome-img">
@@ -899,9 +838,6 @@
               </div>
             </div>
           </div>
-          <!-- portfolio-item end -->
-
-          <!-- portfolio-item start -->
           <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-web">
             <div class="single-awesome-project">
               <div class="awesome-img">
@@ -917,9 +853,6 @@
               </div>
             </div>
           </div>
-          <!-- portfolio-item end -->
-
-          <!-- portfolio-item start -->
           <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-card">
             <div class="single-awesome-project">
               <div class="awesome-img">
@@ -935,9 +868,6 @@
               </div>
             </div>
           </div>
-          <!-- portfolio-item end -->
-
-          <!-- portfolio-item start -->
           <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-web">
             <div class="single-awesome-project">
               <div class="awesome-img">
@@ -953,9 +883,6 @@
               </div>
             </div>
           </div>
-          <!-- portfolio-item end -->
-
-          <!-- portfolio-item start -->
           <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-app">
             <div class="single-awesome-project">
               <div class="awesome-img">
@@ -971,9 +898,6 @@
               </div>
             </div>
           </div>
-          <!-- portfolio-item end -->
-
-          <!-- portfolio-item start -->
           <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-web">
             <div class="single-awesome-project">
               <div class="awesome-img">
@@ -989,14 +913,14 @@
               </div>
             </div>
           </div>
-          <!-- portfolio-item end -->
 
         </div>
       </div>
-    </div><!-- End Portfolio Section -->
+    </div> -->
+    <!-- End Portfolio Section -->
 
     <!-- ======= Pricing Section ======= -->
-    <div id="pricing" class="pricing-area area-padding">
+    <!-- <div id="pricing" class="pricing-area area-padding">
       <div class="container">
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
@@ -1057,10 +981,10 @@
           </div>
         </div>
       </div>
-    </div><!-- End Pricing Section -->
+    </div>End Pricing Section -->
 
     <!-- ======= Testimonials Section ======= -->
-    <div id="testimonials" class="testimonials">
+    <!-- <div id="testimonials" class="testimonials">
       <div class="container">
 
         <div class="testimonials-slider swiper">
@@ -1077,7 +1001,7 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-item">
@@ -1090,7 +1014,7 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-item">
@@ -1103,7 +1027,7 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-item">
@@ -1116,7 +1040,7 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-item">
@@ -1129,17 +1053,18 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
           </div>
           <div class="swiper-pagination"></div>
         </div>
 
       </div>
-    </div><!-- End Testimonials Section -->
+    </div> -->
+    <!-- End Testimonials Section -->
 
     <!-- ======= Blog Section ======= -->
-    <div id="blog" class="blog-area">
+    <!-- <div id="blog" class="blog-area">
       <div class="blog-inner area-padding">
         <div class="blog-overly"></div>
         <div class="container ">
@@ -1151,7 +1076,6 @@
             </div>
           </div>
           <div class="row">
-            <!-- Start Left Blog -->
             <div class="col-md-4 col-sm-4 col-xs-12">
               <div class="single-blog">
                 <div class="single-blog-img">
@@ -1180,10 +1104,7 @@
                   <a href="blog.html" class="ready-btn">Read more</a>
                 </span>
               </div>
-              <!-- Start single blog -->
             </div>
-            <!-- End Left Blog-->
-            <!-- Start Left Blog -->
             <div class="col-md-4 col-sm-4 col-xs-12">
               <div class="single-blog">
                 <div class="single-blog-img">
@@ -1212,10 +1133,7 @@
                   <a href="blog.html" class="ready-btn">Read more</a>
                 </span>
               </div>
-              <!-- Start single blog -->
             </div>
-            <!-- End Left Blog-->
-            <!-- Start Right Blog-->
             <div class="col-md-4 col-sm-4 col-xs-12">
               <div class="single-blog">
                 <div class="single-blog-img">
@@ -1245,14 +1163,12 @@
                 </span>
               </div>
             </div>
-            <!-- End Right Blog-->
           </div>
         </div>
       </div>
-    </div><!-- End Blog Section -->
+    </div> -->
 
-    <!-- ======= Suscribe Section ======= -->
-    <div class="suscribe-area">
+    <!-- <div class="suscribe-area">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12">
@@ -1263,98 +1179,64 @@
           </div>
         </div>
       </div>
-    </div><!-- End Suscribe Section -->
+    </div> -->
+
+    <div class="contact-overly"></div>  
 
     <!-- ======= Contact Section ======= -->
-    <div id="contact" class="contact-area">
+    <div id="contact" class="contact-area pt-20">
       <div class="contact-inner area-padding">
-        <div class="contact-overly"></div>
-        <div class="container ">
-          <div class="row">
-            <div class="col-md-12 col-sm-12 col-xs-12">
-              <div class="section-headline text-center">
-                <h2>Contact us</h2>
+        <div class="row">
+          <img src="assets/img/hero-carousel/UPPERCABARLIGANDUMPSITE1.jpg" style="width:100%;height:600px; border-bottom: 3px solid #dcaa0a;">
+        </div> 
+        <div class="container" style="margin-top: 50px">
+          <div class="row pri_table_list"  style="text-align:left;">    
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 mt-3">
+              <div style="border-bottom: 1px solid  black;">
+                <p style="font-weight: bold;color:#dcaa0a;">United Kingdom</p>
               </div>
             </div>
-          </div>
-          <div class="row">
-            <!-- Start contact icon column -->
-            <div class="col-md-4">
-              <div class="contact-icon text-center">
-                <div class="single-icon">
-                  <i class="bi bi-phone"></i>
-                  <p>
-                    Call: +1 5589 55488 55<br>
-                    <span>Monday-Friday (9am-5pm)</span>
-                  </p>
-                </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 mt-3">
+                <p>Room 169, First Floor</p>
+                <p style="margin-top: -20px">Berkeley Square House</p>  
+                <p style="margin-top: -20px">Berkeley Square</p>  
+                <p style="margin-top: -20px">London, W1J 6DB </p>  
+                <button>Email Us</button> 
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 mt-3 text-right">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="50%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+            <!--  -->   
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 mt-3">
+              <div style="border-bottom: 1px solid  black;">
+                <p style="font-weight: bold;color:#dcaa0a;">Philippines</p>
               </div>
             </div>
-            <!-- Start contact icon column -->
-            <div class="col-md-4">
-              <div class="contact-icon text-center">
-                <div class="single-icon">
-                  <i class="bi bi-envelope"></i>
-                  <p>
-                    Email: info@example.com<br>
-                    <span>Web: www.example.com</span>
-                  </p>
-                </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 mt-3">
+                <p>Unit 1407, Pacific Star Building,</p>
+                <p style="margin-top: -20px">Sen. Gil Puyat Avenue corner,</p>
+                <p style="margin-top: -20px">Makati Avenue, Makati City, 1200</p>
+                <p style="margin-top: -20px">Metro Manila, Philippines</p>
+                <p style="margin-top: -20px">Tel: +63 (0) 2 8659 5662</p>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 mt-3 text-right">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="50%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+            <!--  -->            
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 mt-3">
+              <div style="border-bottom: 1px solid  black;">
+                <p style="font-weight: bold;color:#dcaa0a;">Nueva Vizcaya</p>
               </div>
             </div>
-            <!-- Start contact icon column -->
-            <div class="col-md-4">
-              <div class="contact-icon text-center">
-                <div class="single-icon">
-                  <i class="bi bi-geo-alt"></i>
-                  <p>
-                    Location: A108 Adam Street<br>
-                    <span>NY 535022, USA</span>
-                  </p>
-                </div>
-              </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 mt-3">
+                <p>Sitio Compound, Barangay Runruno</p>
+                <p style="margin-top: -20px">Quezon, Nueva Vizcaya</p>
+                <p style="margin-top: -20px">3713 Philippines</p>
             </div>
-          </div>
-          <div class="row">
-
-            <!-- Start Google Map -->
-            <div class="col-md-6">
-              <!-- Start Map -->
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
-              <!-- End Map -->
-            </div>
-            <!-- End Google Map -->
-
-            <!-- Start  contact -->
-            <div class="col-md-6">
-              <div class="form contact-form">
-                <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                  <div class="form-group">
-                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-                  </div>
-                  <div class="form-group mt-3">
-                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                  </div>
-                  <div class="form-group mt-3">
-                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
-                  </div>
-                  <div class="form-group mt-3">
-                    <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-                  </div>
-                  <div class="my-3">
-                    <div class="loading">Loading</div>
-                    <div class="error-message"></div>
-                    <div class="sent-message">Your message has been sent. Thank you!</div>
-                  </div>
-                  <div class="text-center"><button type="submit">Send Message</button></div>
-                </form>
-              </div>
-            </div>
-            <!-- End Left contact -->
           </div>
         </div>
       </div>
-    </div><!-- End Contact Section -->
+    </div>
 
   </main><!-- End #main -->
 
@@ -1363,62 +1245,57 @@
     <div class="footer-area">
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-md-3">
             <div class="footer-content">
               <div class="footer-head">
                 <div class="footer-logo">
-                  <h2><span>FCF</span>Website</h2>
+                  <h4>Registered office</h4>
                 </div>
-
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
-                <div class="footer-icons">
-                  <ul>
-                    <li>
-                      <a href="#"><i class="bi bi-facebook"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="bi bi-twitter"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="bi bi-instagram"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="bi bi-linkedin"></i></a>
-                    </li>
-                  </ul>
-                </div>
+                <p style="margin-top: -20px">200 Strand</p>
+                <p style="margin-top: -20px">London WC2R IDJ</p>
+                <p style="margin-top: -20px">Tel: +44 (0) 207 539 7272</p>
+                <p>Registered in England & Wales: 05098945</p>
               </div>
             </div>
           </div>
           <!-- end single footer -->
-          <div class="col-md-4">
+          <div class="col-md-3">
             <div class="footer-content">
               <div class="footer-head">
-                <h4>information</h4>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-                </p>
-                <div class="footer-contacts">
-                  <p><span>Tel:</span> +123 456 789</p>
-                  <p><span>Email:</span> contact@example.com</p>
-                  <p><span>Working Hours:</span> 9am-5pm</p>
+                <div class="footer-logo">
+                  <h4>United Kingdom</h4>
                 </div>
+                <p style="margin-top: -20px">Room 169, First Floor</p>
+                <p style="margin-top: -20px">Berkeley Square House</p>
+                <p style="margin-top: -20px">Berkeley Square</p>
+                <p style="margin-top: -20px">London W1J 6DB</p>
               </div>
             </div>
           </div>
           <!-- end single footer -->
-          <div class="col-md-4">
+          <div class="col-md-3">
             <div class="footer-content">
               <div class="footer-head">
-                <h4>Instagram</h4>
-                <div class="flicker-img">
-                  <a href="#"><img src="assets/img/portfolio/1.jpg" alt=""></a>
-                  <a href="#"><img src="assets/img/portfolio/2.jpg" alt=""></a>
-                  <a href="#"><img src="assets/img/portfolio/3.jpg" alt=""></a>
-                  <a href="#"><img src="assets/img/portfolio/4.jpg" alt=""></a>
-                  <a href="#"><img src="assets/img/portfolio/5.jpg" alt=""></a>
-                  <a href="#"><img src="assets/img/portfolio/6.jpg" alt=""></a>
+                <div class="footer-logo">
+                  <h4>Philippines</h4>
                 </div>
+                <p style="margin-top: -20px">Unit 1407, Pacific Star Building,</p>
+                <p style="margin-top: -20px">Sen. Gil Puyat Avenue corner,</p>
+                <p style="margin-top: -20px">Makati Avenue, Makati City, 1200</p>
+                <p style="margin-top: -20px">Metro Manila, Philippines</p>
+                <p style="margin-top: -20px">Tel: +63 (0) 2 8659 5662</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="footer-content">
+              <div class="footer-head">
+                <div class="footer-logo">
+                  <h4>Investor Relations</h4>
+                </div>
+                <p style="margin-top: -20px">To request additional information or adk any </p>
+                <p style="margin-top: -20px">questions, please email us at:</p>
+                <p style="margin-top: -20px;color:#dcaa0a;">info@metalsexploration.com</p>
               </div>
             </div>
           </div>
@@ -1431,17 +1308,8 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="copyright text-center">
               <p>
-                &copy; Copyright <strong>FCFWebsite</strong>. All Rights Reserved
+                &copy; Metals Exploration Plc. All rights reserved by Metals Exploration | <span style="color:#dcaa0a;">Privacy Policy</span> | <span style="color:#dcaa0a;">Disclaimer</span> | Website designed and built by <span style="color:#dcaa0a;">Digima Web Solutions</span>.
               </p>
-            </div>
-            <div class="credits">
-              <!--
-              All the links in the footer should remain intact.
-              You can delete the links only if you purchased the pro version.
-              Licensing information: https://bootstrapmade.com/license/
-              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
-            -->
-              Designed by <a href="#">JONARTDev</a>
             </div>
           </div>
         </div>
