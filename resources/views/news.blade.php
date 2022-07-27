@@ -52,8 +52,8 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="/"></a></li>
-          <li><a class="nav-link scrollto active" href="#hero">HOME</a></li>
+          <li><a class="nav-link scrollto active" href="#hero"></a></li>
+          <li><a class="nav-link scrollto " href="/">HOME</a></li>
           <li class="dropdown nav-link scrollto"><a href="/about"><span>ABOUT US</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Introduction</a></li>              
@@ -66,7 +66,7 @@
           <li><a class="nav-link scrollto" href="/project">RUNRUNO PROJECT</a></li>
           <li><a class="nav-link scrollto" href="/esg">ESG</a></li>
           <li><a class="nav-link scrollto" href="/investors">INVESTORS</a></li>
-          <li><a class="nav-link scrollto" href="/news">NEWS</a></li>
+          <li><a class="nav-link scrollto active" href="/news">NEWS</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>

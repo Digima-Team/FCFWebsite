@@ -326,6 +326,13 @@ div#preloader {
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   color: #dcaa0a;
 }
+.nav-link{
+  color: black;
+}
+.nav-link.active,
+.show > .nav-link {
+  color: #dcaa0a;
+}
 .navbar .dropdown ul {
   display: block;
   position: absolute;
