@@ -54,7 +54,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero"></a></li>
           <li><a class="nav-link scrollto " href="/">HOME</a></li>
-          <li class="dropdown nav-link scrollto active"><a href="#"><span>ABOUT US</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a class="nav-link scrollto active" href="/about">ABOUT US</a>
             <ul>
               <li><a href="#">Introduction</a></li>              
               <li><a href="#">Board of Directors</a></li>
@@ -62,28 +62,41 @@
               <li><a href="#">History</a></li>
             </ul>
           </li>
-          <!-- <li><a class="nav-link scrollto" href="#about">About Us</a></li> -->
-          <li><a class="nav-link scrollto" href="/project">RUNRUNO PROJECT</a></li>
-          <li><a class="nav-link scrollto" href="/esg">ESG</a></li>
-          <li><a class="nav-link scrollto" href="/investors">INVESTORS</a></li>
-          <li><a class="nav-link scrollto" href="/news">NEWS</a></li>
-          <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a class="nav-link scrollto" href="/project">RUNRUNO PROJECT</a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">The Philippines</a></li>              
+              <li><a href="#">Overview</a></li>
+              <li><a href="#">Geology</a></li>
+              <li><a href="#">Exploration</a></li>
+              <li><a href="#">Mining operations</a></li>
+              <li><a href="#">Reserves</a></li>
+              <li><a href="#">Exploration upside</a></li>
+              <li><a href="#">Gallery</a></li>
             </ul>
-          </li> -->
+          </li>
+          <li class="dropdown"><a class="nav-link scrollto" href="/esg">ESG</a>
+            <ul>
+              <li><a href="#">ESG Overview</a></li>              
+              <li><a href="#">Governance</a></li>
+              <li><a href="#">Community initiatives</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a class="nav-link scrollto" href="/investors">INVESTORS</a>
+            <ul>
+              <li><a href="#">Share price information</a></li>              
+              <li><a href="#">Announcements</a></li>
+              <li><a href="#">Results and reports</a></li>
+              <li><a href="#">Presentations</a></li>
+              <li><a href="#">Broker notes</a></li>
+              <li><a href="#">Corporate documents</a></li>
+              <li><a href="#">AIM Rule 26</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a class="nav-link scrollto" href="/news">NEWS</a>
+            <ul>
+              <li><a href="#">Announcements</a></li>     
+            </ul>
+          </li>
           <li><a class="nav-link scrollto" href="/contact">CONTACT</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -106,26 +119,6 @@
               <div class="container">
                 <!-- <h2 class="animate__animated animate__fadeInDown">The Best Business Information </h2>
                 <p class="animate__animated animate__fadeInUp">We're In The Business Of Helping You Start Your Business</p> -->
-                <!-- <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a> -->
-              </div>
-            </div>
-          </div>
-
-          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/MinePit2.jpg)">
-            <div class="carousel-container">
-              <div class="container">
-                <!-- <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
-                <p class="animate__animated animate__fadeInUp">Helping Business Security & Peace of Mind for Your Family</p> -->
-                <!-- <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a> -->
-              </div>
-            </div>
-          </div>
-
-          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/MinePit3.jpg)">
-            <div class="carousel-container">
-              <div class="container">
-                <!-- <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
-                <p class="animate__animated animate__fadeInUp">Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem</p> -->
                 <!-- <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a> -->
               </div>
             </div>
