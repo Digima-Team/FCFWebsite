@@ -496,10 +496,22 @@ div#preloader {
   left: 0;
   bottom: 0;
 }
+@keyframes zoominoutsinglefeatured {
+    0% {
+        transform: scale(1,1);
+    }
+    50% {
+        transform: scale(1.2,1.2);
+    }
+    100% {
+        transform: scale(1,1);
+    }
+}
 #hero .carousel-item {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  animation: zoominoutsinglefeatured 30s infinite ;
 }
 #hero .carousel-item::before {
   content: "";

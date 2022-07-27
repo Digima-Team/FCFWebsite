@@ -124,7 +124,7 @@
   </header><!-- End Header -->
 
   <!-- ======= hero Section ======= -->
-  <section id="hero">
+  <section id="hero" style="width:100%;height:600px; border-bottom: 3px solid #dcaa0a;">
     <div class="hero-container">
       <div id="heroCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
 
