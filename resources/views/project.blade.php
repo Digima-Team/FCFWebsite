@@ -180,16 +180,7 @@
               <div class="col-9">
                   <div class="tab-content" id="v-pills-tabContent">
                   <div class="tab-pane fade show active" id="the-ph" role="tabpanel"  aria-labelledby="v-pills-home-tab">
-                    <p > 
-                      FCF Minerals Corporation is a mining company engaged in the production of gold dore through the Runruno Gold Project.
-                      The company was incorporated in 2011 with office operations based in Makati City, Philippines. FCF became a wholly-owned subsidiary of Metals Exploration Plc.
-                      (MEP) in September 2005, a company registered with the London Stock Exhange and admitted to the Alternative Investment Market. 
-                    </p>
-                    <p>
-                      It is located in Barangay Runruno, Quezon, Nueva Vizcaya. 280 KM North of Manila and 29 KM east of Solano, Nueva Vizcaya.
-                    </p>
-                    <p>
-                      Its FTAA area is 3,093.51 hectares. Total project footprint is approximately 420 hectares and the project's estimated mine life is 10.3 years.
+                    <p > The Philippines
                     </p>
                   </div>
                   <div class="tab-pane fade" id="overview" role="tabpanel" aria-labelledby="overview-tab">...overview</div>
