@@ -8,6 +8,7 @@ echo "🎬 artisan commands"
 
 # cp /srv/app/env/.env /srv/app/.env
 
+# Copy example env
 cp /srv/app/.env.example /srv/app/.env
 php artisan key:generate
 
