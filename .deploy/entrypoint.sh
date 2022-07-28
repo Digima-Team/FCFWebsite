@@ -8,6 +8,9 @@ echo "🎬 artisan commands"
 
 # cp /srv/app/env/.env /srv/app/.env
 
+cp /srv/app/.env.example /srv/app/.env
+php artisan key:generate
+
 # 💡 Group into a custom command e.g. php artisan app:on-deploy
 # php artisan optimize
 php artisan migrate --no-interaction --force
