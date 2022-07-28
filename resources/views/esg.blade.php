@@ -38,7 +38,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center">
+  <header id="header" class="fixed-top d-flex align-items-center" style="border-bottom: 3px solid #dcaa0a;">
     <div class="container d-flex justify-content-between">
 
       <div class="logo mt-3">
@@ -167,7 +167,8 @@
             <div class="row"  style="text-align:left;">   
               <div class="col-3">
                   <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                  <a class="nav-link active" style="border-bottom:2px;" id="esg-overview-tab" data-toggle="pill" href="#esg-overview" role="tab" aria-controls="esg-overview" aria-selected="true">ESG overview</a>
+                  <a class="nav-link" style="color: #dcaa0a;border-bottom: 2px solid black; font-weight:bold;" id="esg-overview-tab" data-toggle="pill" href="#esg-overview" role="tab" aria-controls="esg-overview" aria-selected="true">ESG</a>
+                  <a class="nav-link active show" style="border-bottom:2px;" id="esg-overview-tab" data-toggle="pill" href="#esg-overview" role="tab" aria-controls="esg-overview" aria-selected="true">ESG overview</a>
                   <a class="nav-link" id="governance-tab" data-toggle="pill" href="#governance" role="tab" aria-controls="governance" aria-selected="false">Governance</a>
                   <a class="nav-link" id="community-initiatives-tab" data-toggle="pill" href="#community-initiatives" role="tab" aria-controls="community-initiatives" aria-selected="false">Community initiatives</a>
                   </div>

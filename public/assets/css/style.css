@@ -333,6 +333,12 @@ div#preloader {
 .show > .nav-link {
   color: #dcaa0a;
 }
+.nav a{
+  background-color: white !important;
+}
+.nav .nav-link.active.show{
+  color: #dcaa0a;
+}
 .navbar .dropdown ul {
   display: block;
   position: absolute;

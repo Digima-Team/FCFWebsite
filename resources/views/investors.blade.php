@@ -38,7 +38,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center">
+  <header id="header" class="fixed-top d-flex align-items-center" style="border-bottom: 3px solid #dcaa0a;">
     <div class="container d-flex justify-content-between">
 
       <div class="logo mt-3">
@@ -167,7 +167,8 @@
             <div class="row"  style="text-align:left;">   
               <div class="col-3">
                   <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                  <a class="nav-link active" style="border-bottom:2px;" id="share-tab" data-toggle="pill" href="#share" role="tab" aria-controls="share" aria-selected="true">Share price information</a>
+                  <a class="nav-link" style="color: #dcaa0a;border-bottom: 2px solid black; font-weight:bold;" id="share-tab" data-toggle="pill" href="#share" role="tab" aria-controls="share" aria-selected="true">INVESTORS</a>
+                  <a class="nav-link active show" style="border-bottom:2px;" id="share-tab" data-toggle="pill" href="#share" role="tab" aria-controls="share" aria-selected="true">Share price information</a>
                   <a class="nav-link" id="announcements-tab" data-toggle="pill" href="#announcements" role="tab" aria-controls="announcements" aria-selected="false">Announcements</a>
                   <a class="nav-link" id="results-reports-tab" data-toggle="pill" href="#results-reports" role="tab" aria-controls="results-reports" aria-selected="false">Results and reports</a>
                   <a class="nav-link" id="presentation-tab" data-toggle="pill" href="#presentation" role="tab" aria-controls="presentation" aria-selected="false">Presentation</a>

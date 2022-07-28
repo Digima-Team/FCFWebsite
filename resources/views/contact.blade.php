@@ -38,7 +38,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center">
+  <header id="header" class="fixed-top d-flex align-items-center" style="border-bottom: 3px solid #dcaa0a;">
     <div class="container d-flex justify-content-between">
 
       <div class="logo mt-3">

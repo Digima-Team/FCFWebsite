@@ -38,7 +38,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center">
+  <header id="header" class="fixed-top d-flex align-items-center" style="border-bottom: 3px solid #dcaa0a;">
     <div class="container d-flex justify-content-between">
 
       <div class="logo mt-3">
@@ -167,7 +167,8 @@
             <div class="row"  style="text-align:left;">   
               <div class="col-3">
                   <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                  <a class="nav-link active" style="border-bottom:2px;" id="announcements-tab" data-toggle="pill" href="#announcements" role="tab" aria-controls="announcements" aria-selected="true">Announcements</a>
+                  <a class="nav-link" style="color: #dcaa0a;border-bottom: 2px solid black; font-weight:bold;" id="announcements-tab" data-toggle="pill" href="#announcements" role="tab" aria-controls="announcements" aria-selected="true">NEWS</a>
+                  <a class="nav-link active show" style="border-bottom:2px;" id="announcements-tab" data-toggle="pill" href="#announcements" role="tab" aria-controls="announcements" aria-selected="true">Announcements</a>
                   </div>
               </div>
               <div class="col-9">

@@ -38,7 +38,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center">
+  <header id="header" class="fixed-top d-flex align-items-center" style="border-bottom: 3px solid #dcaa0a;">
     <div class="container d-flex justify-content-between">
 
       <div class="logo mt-3">
@@ -126,13 +126,13 @@
 
         </div>
 
-        <!-- <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+        <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
           <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
         </a>
 
         <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
           <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
-        </a> -->
+        </a>
 
       </div>
     </div>
@@ -148,7 +148,7 @@
           <div class="row"  style="text-align:left;">   
             <div class="col-3">
                 <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                <a class="nav-link active" style="border-bottom:2px;" id="about-us-tab" data-toggle="pill" href="#about-us" role="tab" aria-controls="about-us" aria-selected="true">ABOUT US </a>
+                <a class="nav-link active" style="color: #dcaa0a;border-bottom: 2px solid black; font-weight:bold;" id="about-us-tab" data-toggle="pill" href="#about-us" role="tab" aria-controls="about-us" aria-selected="true">ABOUT US </a>
                 <a class="nav-link" id="vision-mission-values-tab" data-toggle="pill" href="#vision-mission-values" role="tab" aria-controls="vision-mission-values" aria-selected="false">Vision-Mission-Values</a>
                 <a class="nav-link" id="executive-management-tab" data-toggle="pill" href="#executive-management" role="tab" aria-controls="executive-management" aria-selected="false">Executive Management</a>
                 <a class="nav-link" id="management-team-tab" data-toggle="pill" href="#management-team" role="tab" aria-controls="management-team" aria-selected="false">Management Team</a>
@@ -157,23 +157,23 @@
             </div>
             <div class="col-9">
                 <div class="tab-content" id="v-pills-tabContent">
-                <div class="tab-pane fade show active" id="about-us" role="tabpanel"  aria-labelledby="v-pills-home-tab">
-                  <p > 
-                    FCF Minerals Corporation is a mining company engaged in the production of gold dore through the Runruno Gold Project.
-                    The company was incorporated in 2011 with office operations based in Makati City, Philippines. FCF became a wholly-owned subsidiary of Metals Exploration Plc.
-                    (MEP) in September 2005, a company registered with the London Stock Exhange and admitted to the Alternative Investment Market. 
-                  </p>
-                  <p>
-                    It is located in Barangay Runruno, Quezon, Nueva Vizcaya. 280 KM North of Manila and 29 KM east of Solano, Nueva Vizcaya.
-                  </p>
-                  <p>
-                    Its FTAA area is 3,093.51 hectares. Total project footprint is approximately 420 hectares and the project's estimated mine life is 10.3 years.
-                  </p>
-                </div>
-                <div class="tab-pane fade" id="vision-mission-values" role="tabpanel" aria-labelledby="vision-mission-values-tab">...Vision-Mission-Values</div>
-                <div class="tab-pane fade" id="executive-management" role="tabpanel" aria-labelledby="executive-management-tab">...Executive Management</div>
-                <div class="tab-pane fade" id="management-team" role="tabpanel" aria-labelledby="management-team-tab">...Management Team</div>
-                <div class="tab-pane fade" id="history" role="tabpanel" aria-labelledby="history-tab">...History</div>
+                  <div class="tab-pane fade show active" id="about-us" role="tabpanel"  aria-labelledby="v-pills-home-tab">
+                    <p > 
+                      FCF Minerals Corporation is a mining company engaged in the production of gold dore through the Runruno Gold Project.
+                      The company was incorporated in 2011 with office operations based in Makati City, Philippines. FCF became a wholly-owned subsidiary of Metals Exploration Plc.
+                      (MEP) in September 2005, a company registered with the London Stock Exhange and admitted to the Alternative Investment Market. 
+                    </p>
+                    <p>
+                      It is located in Barangay Runruno, Quezon, Nueva Vizcaya. 280 KM North of Manila and 29 KM east of Solano, Nueva Vizcaya.
+                    </p>
+                    <p>
+                      Its FTAA area is 3,093.51 hectares. Total project footprint is approximately 420 hectares and the project's estimated mine life is 10.3 years.
+                    </p>
+                  </div>
+                  <div class="tab-pane fade" id="vision-mission-values" role="tabpanel" aria-labelledby="vision-mission-values-tab">...Vision-Mission-Values</div>
+                  <div class="tab-pane fade" id="executive-management" role="tabpanel" aria-labelledby="executive-management-tab">...Executive Management</div>
+                  <div class="tab-pane fade" id="management-team" role="tabpanel" aria-labelledby="management-team-tab">...Management Team</div>
+                  <div class="tab-pane fade" id="history" role="tabpanel" aria-labelledby="history-tab">...History</div>
                 </div>
             </div>                            
           </div>

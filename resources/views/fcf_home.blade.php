@@ -38,7 +38,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center">
+  <header id="header" class="fixed-top d-flex align-items-center" style="border-bottom: 3px solid #dcaa0a;">
     <div class="container d-flex justify-content-between">
 
       <div class="logo mt-3">
@@ -329,6 +329,7 @@
                   <div class="project-dec">
                     <a class="portfolio-lightbox mt-20" data-gallery="myGallery" href="assets/img/portfolio/1A.jpg">
                       <h4 style="font-size:14px;">New Announcements</h4>
+                      <p style="color:white;">View our latest news announcements</p>
                     </a>
                   </div>
                 </div>
@@ -346,6 +347,7 @@
                   <div class="project-dec">
                     <a class="portfolio-lightbox" data-gallery="myGallery" href="assets/img/portfolio/2A.jpg">
                       <h4 style="font-size:14px;">Results & Reports</h4>
+                      <p style="color:white;">View our results and reports</p>
                     </a>
                   </div>
                 </div>
@@ -363,6 +365,7 @@
                   <div class="project-dec">
                     <a class="portfolio-lightbox" data-gallery="myGallery" href="assets/img/portfolio/3A.jpg">
                       <h4 style="font-size:14px;">Presentations</h4>
+                      <p style="color:white;">View our latest presentations</p>
                     </a>
                   </div>
                 </div>
@@ -381,8 +384,9 @@
       <div class="row p-2" style="background-color:#dcaa0a; color:#fff !important;">
         <div class="col-md-6">
           <!-- Start Map -->
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
-          <!-- End Map -->
+          <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+            <img src="assets/img/hero-carousel/Runruno_Gold_Project_Map4.svg" alt="" />
+            <!-- End Map -->
         </div>
         <!-- End Google Map -->
 
@@ -1238,63 +1242,6 @@
         </div>
       </div>
     </div> -->
-
-    <div class="contact-overly"></div>  
-
-    <!-- ======= Contact Section ======= -->
-    <div id="contact" class="contact-area pt-20">
-      <div class="contact-inner area-padding">
-        <div class="row">
-          <img src="assets/img/hero-carousel/UPPERCABARLIGANDUMPSITE1.jpg" style="width:100%;height:600px; border-bottom: 3px solid #dcaa0a;">
-        </div> 
-        <div class="container" style="margin-top: 50px">
-          <div class="row pri_table_list"  style="text-align:left;">    
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 mt-3">
-              <div style="border-bottom: 1px solid  black;">
-                <p style="font-weight: bold;color:#dcaa0a;">United Kingdom</p>
-              </div>
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 mt-3">
-                <p>Room 169, First Floor</p>
-                <p style="margin-top: -20px">Berkeley Square House</p>  
-                <p style="margin-top: -20px">Berkeley Square</p>  
-                <p style="margin-top: -20px">London, W1J 6DB </p>  
-                <button>Email Us</button> 
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 mt-3 text-right">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="50%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
-            </div>
-            <!--  -->   
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 mt-3">
-              <div style="border-bottom: 1px solid  black;">
-                <p style="font-weight: bold;color:#dcaa0a;">Philippines</p>
-              </div>
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 mt-3">
-                <p>Unit 1407, Pacific Star Building,</p>
-                <p style="margin-top: -20px">Sen. Gil Puyat Avenue corner,</p>
-                <p style="margin-top: -20px">Makati Avenue, Makati City, 1200</p>
-                <p style="margin-top: -20px">Metro Manila, Philippines</p>
-                <p style="margin-top: -20px">Tel: +63 (0) 2 8659 5662</p>
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 mt-3 text-right">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="50%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
-            </div>
-            <!--  -->            
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 mt-3">
-              <div style="border-bottom: 1px solid  black;">
-                <p style="font-weight: bold;color:#dcaa0a;">Nueva Vizcaya</p>
-              </div>
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 mt-3">
-                <p>Sitio Compound, Barangay Runruno</p>
-                <p style="margin-top: -20px">Quezon, Nueva Vizcaya</p>
-                <p style="margin-top: -20px">3713 Philippines</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
 
   </main><!-- End #main -->
 
