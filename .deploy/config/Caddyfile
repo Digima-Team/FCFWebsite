@@ -1,0 +1,36 @@
+:80 {
+    root * /srv/app/public
+
+    @websockets {
+        header Connection *upgrade*
+        header Upgrade    websocket
+    }
+    reverse_proxy @websockets 127.0.0.1:6001 {
+        header_down -X-Powered-By
+    }
+
+    redir /index.php / 308
+    redir /index.php/ / 308
+    route /index.php/* {
+        uri strip_prefix /index.php
+        redir {path} 308
+    }
+
+    header {
+        X-XSS-Protection "1; mode=block"
+        X-Content-Type-Options "nosniff"
+        X-Frame-Options "SAMEORIGIN"
+        Referrer-Policy "no-referrer-when-downgrade"
+        Content-Security-Policy "upgrade-insecure-requests"
+    }
+
+    php_fastcgi 127.0.0.1:9000 {
+        dial_timeout 120s
+        read_timeout 120s
+        write_timeout 120s
+    }
+    encode gzip
+    header -X-Powered-By
+    file_server
+    log
+}
