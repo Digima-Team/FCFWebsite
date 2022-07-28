@@ -6,7 +6,7 @@ composer dump-autoload --no-interaction --no-dev --optimize
 
 echo "🎬 artisan commands"
 
-cp /srv/app/env/.env /srv/app/.env
+# cp /srv/app/env/.env /srv/app/.env
 
 # 💡 Group into a custom command e.g. php artisan app:on-deploy
 # php artisan optimize
