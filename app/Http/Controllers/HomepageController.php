@@ -13,9 +13,32 @@ class HomepageController extends Controller
      */
     public function index()
     {
-        return view("fcf_home");
+        return view('fcf_home');
     }
-
+    public function about()
+    {
+        return view('about');
+    }
+    public function project()
+    {
+        return view('project');
+    }
+    public function esg()
+    {
+        return view('esg');
+    }
+    public function investors()
+    {
+        return view('investors');
+    }
+    public function news()
+    {
+        return view('news');
+    }
+    public function contact()
+    {
+        return view('contact');
+    }
     /**
      * Show the form for creating a new resource.
      *
