@@ -247,7 +247,7 @@
                       </div>     
                     </div>
                   </div>
-                  <div class="tab-pane fade" id="management-team" role="tabpanel" aria-labelledby="management-team-tab">...Management Team</div>
+                  <div class="tab-pane fade" id="management-team" role="tabpanel" aria-labelledby="management-team-tab">...Management Team TEST</div>
                   <div class="tab-pane fade" id="history" role="tabpanel" aria-labelledby="history-tab">...History</div>
                 </div>
             </div>                            
