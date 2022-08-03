@@ -333,6 +333,10 @@ div#preloader {
 .show > .nav-link {
   color: #dcaa0a;
 }
+[aria-expanded="true"] .fa-angle-double-up, 
+[aria-expanded="false"] .fa-angle-double-down {
+    display:none;
+}
 .nav a{
   background-color: white !important;
 }

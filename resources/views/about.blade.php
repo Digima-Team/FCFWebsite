@@ -170,8 +170,83 @@
                       Its FTAA area is 3,093.51 hectares. Total project footprint is approximately 420 hectares and the project's estimated mine life is 10.3 years.
                     </p>
                   </div>
-                  <div class="tab-pane fade" id="vision-mission-values" role="tabpanel" aria-labelledby="vision-mission-values-tab">...Vision-Mission-Values</div>
-                  <div class="tab-pane fade" id="executive-management" role="tabpanel" aria-labelledby="executive-management-tab">...Executive Management</div>
+                  <div class="tab-pane fade" id="vision-mission-values" role="tabpanel" aria-labelledby="vision-mission-values-tab">                    
+                    <div class="row"  style="text-align:left;">    
+                      <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Vision</h4>
+                        <p>To be the most
+                          admired gold
+                          producer in the
+                          Philippines.</p>    
+                      </div>  
+                      <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Mission</h4>
+                        <p>To enhance the lives of our people and local communities
+                          through the responsible management of our natural resources,
+                          and to deliver resource development and performance that
+                          owners have confidence in and employees are proud of.</p>    
+                      </div>                      
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Values</h4>
+                        <p>Our values underpin our daily actions and drive the work that will achieve
+                            our near-term strategic priorities and our long-term goals. Our values
+                            have one common objective: achieve excellence in all that we do.</p>    
+                      </div>                  
+                      <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <p>Prevent harm.
+                          Show respect.
+                          Act honestly.
+                          Be accountable.</p>    
+                      </div>              
+                      <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <p>Seek excellence.
+                          Innovate and create.
+                          Acknowledge success.
+                          Be fearless.</p>    
+                      </div>
+                    </div>
+                  </div>
+                  <div class="tab-pane fade" id="executive-management" role="tabpanel" aria-labelledby="executive-management-tab">
+                    <img class="img-with-animation skip-lazy animated-in" data-delay="0" height="2924" width="2374" data-animation="fade-in" src="assets/img/about/Executive.jpg" sizes="(min-width: 1450px) 75vw, (min-width: 1000px) 85vw, 100vw">
+                    <div class="row"  style="text-align:left;">    
+                      <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <p>FCF Minerals has also contributed to the growth
+                          of small and medium-sized enterprises in the
+                          Municipality of Quezon in Nueva Vizcaya and other
+                          nearby municipalities. Based on a study that we
+                          have conducted, the indirect economic impact
+                          of our operations amounted to PHP6.9 million in
+                          Nueva Vizcaya and PHP5.4 million outside the
+                          province.
+                          In terms of protecting the environment, we
+                          start by recognizing the adverse effects that
+                          the extractive sector can cause. Thus, we have
+                          integrated advanced technologies to ensure that
+                          our environmental impacts are always kept at
+                          the minimum. Valuing the environment is in FCF
+                          Minerals corporate culture - with employees
+                          sharing the same passion towards its protection.
+                          With their efforts, we won the Best Mining Forest
+                          Contest: Metallic Category of the Presidential
+                          Mineral Industry Environmental Award (PMIEA) for
+                          two consecutive years.</p>    
+                      </div>  
+                      <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <p>Moving forward, we hope to continue this path
+                          of excellence that we have been upholding
+                          since the beginning. This is only possible if
+                          we work hand in hand with our stakeholders.
+                          Our strong partnership keeps us inspired and
+                          focused as we take on this journey. Let us
+                          work together to secure our children’s future.
+                          On behalf of the entire FCF Minerals, I extend
+                          my sincere thanks for your interest in our
+                          sustainability report, and we welcome your
+                          feedback.</p>    
+                          <img class="img-with-animation skip-lazy animated-in" data-delay="0" height="2924" width="2374" data-animation="fade-in" src="assets/img/about/Executive1.jpg" sizes="(min-width: 1450px) 75vw, (min-width: 1000px) 85vw, 100vw">
+                      </div>     
+                    </div>
+                  </div>
                   <div class="tab-pane fade" id="management-team" role="tabpanel" aria-labelledby="management-team-tab">...Management Team</div>
                   <div class="tab-pane fade" id="history" role="tabpanel" aria-labelledby="history-tab">...History</div>
                 </div>
