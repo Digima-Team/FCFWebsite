@@ -142,7 +142,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(https://ucarecdn.com/cc1d141f-acda-4159-a404-853c96223577/Minepit2.jpg)">
+          <div class="carousel-item" style="background-image: url(https://ucarecdn.com/cc1d141f-acda-4159-a404-853c96223577/Minepit2.jpg)"> 
             <div class="carousel-container">
               <div class="container">
                 <!-- <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
