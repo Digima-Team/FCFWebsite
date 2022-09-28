@@ -132,7 +132,7 @@
 
         <div class="carousel-inner" role="listbox">
 
-          <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/MinePit.jpg)">
+          <div class="carousel-item active" style="background-image: url(https://ucarecdn.com/32b9eb41-232f-49a1-bf95-9c133847c690/MinePit.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <!-- <h2 class="animate__animated animate__fadeInDown">The Best Business Information </h2>
@@ -142,7 +142,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/MinePit2.jpg)">
+          <div class="carousel-item" style="background-image: url(https://ucarecdn.com/cc1d141f-acda-4159-a404-853c96223577/Minepit2.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <!-- <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
@@ -152,7 +152,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/MinePit3.jpg)">
+          <div class="carousel-item" style="background-image: url(https://ucarecdn.com/33319c4e-5686-4196-b9d2-8626303705a7/MinePit3.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <!-- <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
@@ -161,7 +161,7 @@
               </div>
             </div>
           </div>
-          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/MALILIBEGDUMPSITE.jpg)">
+          <div class="carousel-item" style="background-image: url(https://ucarecdn.com/b4edfa74-e1ff-4f56-b7c0-dc5d4652a397/MALILIBEGDUMPSITE.JPG.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <!-- <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
@@ -170,7 +170,7 @@
               </div>
             </div>
           </div>
-          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/PPO1.jpg)">
+          <div class="carousel-item" style="background-image: url(https://ucarecdn.com/db4939fa-02ce-4753-b5b5-5fda545c16d7/PPO1.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <!-- <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
@@ -179,7 +179,7 @@
               </div>
             </div>
           </div>
-          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/RADIOHILL.jpg)">
+          <div class="carousel-item" style="background-image: url(https://ucarecdn.com/d46bb531-7e0c-47f3-89da-ee419df6fee4/RADIOHILL.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <!-- <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
