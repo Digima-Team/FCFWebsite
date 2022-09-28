@@ -193,16 +193,16 @@
                             have one common objective: achieve excellence in all that we do.</p>    
                       </div>                  
                       <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
-                        <p>Prevent harm.
-                          Show respect.
-                          Act honestly.
-                          Be accountable.</p>    
+                        <p>- Prevent harm.</p> 
+                        <p>- Show respect.</p> 
+                        <p>- Act honestly.</p> 
+                        <p>- Be accountable.</p>    
                       </div>              
                       <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
-                        <p>Seek excellence.
-                          Innovate and create.
-                          Acknowledge success.
-                          Be fearless.</p>    
+                        <p>- Seek excellence.</p>
+                        <p>- Innovate and create.</p>
+                        <p>- Acknowledge success.</p>
+                        <p>- Be fearless.</p>    
                       </div>
                     </div>
                   </div>
@@ -244,11 +244,119 @@
                           sustainability report, and we welcome your
                           feedback.</p>    
                           <img class="img-with-animation skip-lazy animated-in" data-delay="0" height="2924" width="2374" data-animation="fade-in" src="assets/img/about/Executive1.jpg" sizes="(min-width: 1450px) 75vw, (min-width: 1000px) 85vw, 100vw">
-                      </div>     
+                      </div>   
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Darren Bowden – Chief Executive Officer</h4>
+                        <p>Darren joined the Board in January 2019 and is a Mining Executive with 25 years’ experience building and developing mining projects across Australia, North and South America. Darren has worked across all aspects of the mining business from M&A to technical to operations and executive management. Some of the notable companies for which he has worked include Anglo Coal Australia, Glencore, Nyrstar and Mubadala. Some of the projects in which Darren has been involved include the Minera San Cristobal a silver, lead, zinc project in Bolivia (green field), the Prodeco coal project (brown field) as the VPO and for Mubadala as the CEO on a large underground gold project (green field), Minesa SA, in Bucaramanga. Darren is a Civil Engineer from University of New South Wales, Australia and is focused on driving strategic development and the successful optimization of companies.</p>    
+                      </div>                      
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Lorne Harvey – General Manager Operations</h4>
+                        <p>A self-motivated and confident finance professional with extensive years of experience working for both large multinational global mining companies and small mining juniors.
+                          Demonstrated strengths in building and managing finance teams, strategic business planning, risk management, a proven ability to drive organizational change and arranging debt funding, having successfully facilitated the recent raising of USD$300m. Comfortable decision maker with strong hands-on management style when required, excellent organizational skills having the ability to prioritize workloads whilst being resilient and being able to cope well under pressure.
+                          Takes personal responsibility and accountability as a leader, meeting promises and exceeding expectations as proven recently playing a key role successfully commissioning a major copper mine into commercial production. Appreciates the importance of maintaining external relationships with key stakeholders as evidenced with appointment as a Barrick representative and board member with its Saudi Arabian joint venture partner.
+                        </p>    
+                      </div>                      
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">James Carmichael – Country Manager</h4>
+                        <p></p>    
+                      </div>  
                     </div>
                   </div>
-                  <div class="tab-pane fade" id="management-team" role="tabpanel" aria-labelledby="management-team-tab">...Management Team TEST</div>
-                  <div class="tab-pane fade" id="history" role="tabpanel" aria-labelledby="history-tab">...History</div>
+                  <div class="tab-pane fade" id="management-team" role="tabpanel" aria-labelledby="management-team-tab">
+                    <div class="row"  style="text-align:left;">                       
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Agnes Rosales</h4>
+                        <p>Community Relations Officer Manager</p>    
+                      </div>                             
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Leopoldo Castro</h4>
+                        <p>Mine Environmental Protection and Enhancement Office Manager</p>    
+                      </div>                          
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Maria-Rica- Xtra Arguel</h4>
+                        <p>Occupational Safety and Health Manager</p>    
+                      </div>                          
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Albert Chan</h4>
+                        <p>Mine Operations Manager</p>    
+                      </div>                          
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Atty. Lurline Joy Valdez</h4>
+                        <p>Legal and Compliance Manager</p>    
+                      </div>                          
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Nardito Jr. Sapon</h4>
+                        <p>Procurement Manager</p>    
+                      </div>                          
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Vicente Sapinit</h4>
+                        <p>HR Manager</p>    
+                      </div>                          
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Alan Day </h4>
+                        <p>Mine Technical Manager </p>    
+                      </div>                          
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Craig Jacobson</h4>
+                        <p>Acting Process Manager</p>    
+                      </div>                          
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Matt Gillan</h4>
+                        <p>Acting Maintenance Plant Manager</p>    
+                      </div>                          
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Peter Coumbe</h4>
+                        <p>Mobile Maintenance Manager</p>    
+                      </div>                          
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Roel Bahiwag </h4>
+                        <p>Accounting Manager</p>    
+                      </div>                          
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Diosdado Dimalanta </h4>
+                        <p>Construction and Civil Works Manager</p>    
+                      </div>       
+                    </div>
+                  </div>
+                  <div class="tab-pane fade" id="history" role="tabpanel" aria-labelledby="history-tab">
+                    <div class="row"  style="text-align:left;">    
+                      <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">2004</h4>
+                        <p>Metals Exploration founded in April 2004 and was admitted to AIM on the London Stock Exchange on 22nd October. Also, it acquired a 70% stake in Masapelid, Mindanao.</p>    
+                      </div>  
+                      <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">2006-2005</h4>
+                        <p>MTL entered into a JV Agreement with Medusa Mining Ltd and Philsaga Mining Corp over the former Lacandola gold mine on Masapelid Island. Also, it acquired 70% equity in Runruno, Nueva Vizcaya, and 100% control of the projects – Puray and Worldwide.</p>    
+                      </div>                      
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">2007</h4>
+                        <p>The Company withdrew from the Masapelid JV and focused on its northern Luzon assets. In July, it acquired remaining 15% of the Runruno Project from the FCF Mining Corp, holding an effective 100% interest in the project. Entered into an agreement with PT Batan Pelei Mining for acquiring rights to nickel laterite properties on Waigeo Island in Indonesia.</p>    
+                      </div>            
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">2011-2018</h4>
+                        <p>The Company worked for acquiring all the necessary permits and permissions and advanced the Runruno gold project to production in 2016. The Company also achieved its first gold sale</p>    
+                      </div>           
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">2019</h4>
+                        <p><strong>31st March 2019: </strong>The Company’s lenders – HSBC and BNP Paribas, and its major shareholders – MTL Luxembourg SARL and Runruno Holdings Ltd, as holders of its mezzanine debt, entered into a Standstill Agreement, thereby relieving the Company of making both principal and interest payments due in relation to its Runruno Facility Agreement and the Mezzanine Debt Facilities.</p>    
+                        <p><strong>January 2019:  </strong>New highly experienced management team appointed to turnaround underperforming operations.</p>    
+                      </div>          
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">2020</h4>
+                        <p><strong>26th October 2020:</strong>The Company’s shares recommenced trading upon AIM.</p>   
+                        <p><strong>24th October 2020:</strong>Completed the restructuring of its existing loan facilities and replaced it with new Senior Facility, new Mezzanine Facilities, and the Revolving Credit Facility.</p>   
+                        <p><strong>11th September 2020 (first profit announced):</strong>The year ended 2019, was the first year in the mines operation that the Company was able to record an operating profit since the first commencement of gold production.</p>   
+                        <p><strong>28th April 2020:</strong>Provided an update to the 2011 estimated gold reserves at its Runruno gold project in the Philippines. A resource inventory of 31.6MtMt at 1.12g/t Au was converted to 11.7Mt at 1.38g/t of Probable Reserve.</p>   
+                        <p><strong>9th March 2020:</strong>The Company confirmed that it did not have sufficient liquidity to fully repay either of the Senior Facility or the Mezzanine Debt Facilities on their current terms, and was unable to reach agreement on the continuation of the Standstill Agreement. The Company’s shares were suspended from trading.</p>   
+                        <p><strong>30th January 2020: </strong>The bank Runruno Facility was acquired by MTL Guernsey and Runruno Holdings Ltd.</p>   
+                      </div>            
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">2021</h4>
+                        <p><strong>321 May 2021:</strong>2020 full year results recording a 340% increase in operating profit to US$30.46 million.</p>   
+                        <p><strong>22 April 2021: </strong>Appointment of 3 new Non-Executive Directors, including an Independent Non-Executive Chairman.</p>   
+                      </div>    
+                    </div>
+                  </div>
                 </div>
             </div>                            
           </div>

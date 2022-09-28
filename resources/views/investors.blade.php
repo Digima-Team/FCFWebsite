@@ -187,7 +187,26 @@
                   <div class="tab-pane fade" id="results-reports" role="tabpanel" aria-labelledby="results-reports-tab">...results-reports</div>
                   <div class="tab-pane fade" id="presentation" role="tabpanel" aria-labelledby="presentation-tab">...presentation</div>
                   <div class="tab-pane fade" id="broker" role="tabpanel" aria-labelledby="broker-tab">...broker</div>
-                  <div class="tab-pane fade" id="corporate" role="tabpanel" aria-labelledby="corporate-tab">...corporate</div>
+                  <div class="tab-pane fade" id="corporate" role="tabpanel" aria-labelledby="corporate-tab">
+                    <div class="row"  style="text-align:left;">    
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">The Corporate Social Responsibility.  </h4>
+                        <p>Beyond compliance, there is no better way to establish good community relationships than demonstrating sincerity in the way we care for the health, safety and happiness of our communities.   To champion the cause of the majority, we sponsor worthwhile community projects that support the welfare of women and children, preserve and develop the environment and work in partnership with civic-oriented groups for the general improvement and upgrading of basic community services, thus bringing a notch higher the quality of life of the residents in getting ahead than the rest of the communities in the Municipality of Quezon.</p>    
+                      </div> 
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                        <h4 style="font-weight: bold;color:#dcaa0a;">Worthwhile to note are some of the contributions of the Company, to wit: </h4>
+                        <p>- Road Rehabilitation  - fixing of roads affected by landslides in Runruno and some part of Quezon and Tadji;</p>    
+                        <p>- Provision of Incentives for the Continuing Services of 7 Health Professionals at the Municipal Health Office </p>    
+                        <p>- Support to Brgy Runruno Road Maintenance Group – monthly financial assistance to 24 community workers doing various maintenance tasks within Runruno;</p>    
+                        <p>- Support to Dipilipig Irrigators Association – monthly financial assistance to members through employment of members on rotation posted for duty to oversee the maintenance of the irrigation systems;</p>    
+                        <p>- Assistance to clearing and retrieval operations and support to the  family of victims during typhoon Ulysses;</p>    
+                        <p>- Community Access to company’s medical and dental services;</p>    
+                        <p>- Donations of available scrap materials for community project</p>    
+                        <p>- Support to various community requests </p>    
+                        <p>The above mentioned activities started during the exploration period and are still continuing up to the present operation. </p>    
+                      </div> 
+                    </div> 
+                  </div>
                   <div class="tab-pane fade" id="aim-rule" role="tabpanel" aria-labelledby="aim-rule-tab">...aim-rule</div>
                   </div>
               </div>                            

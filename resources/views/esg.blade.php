@@ -171,6 +171,7 @@
                   <a class="nav-link active show" style="border-bottom:2px;" id="esg-overview-tab" data-toggle="pill" href="#esg-overview" role="tab" aria-controls="esg-overview" aria-selected="true">ESG overview</a>
                   <a class="nav-link" id="governance-tab" data-toggle="pill" href="#governance" role="tab" aria-controls="governance" aria-selected="false">Governance</a>
                   <a class="nav-link" id="community-initiatives-tab" data-toggle="pill" href="#community-initiatives" role="tab" aria-controls="community-initiatives" aria-selected="false">Community initiatives</a>
+                  <a class="nav-link" id="smdp-tab" data-toggle="pill" href="#smdp" role="tab" aria-controls="smdp" aria-selected="false">SMDP</a>
                   </div>
               </div>
               <div class="col-9">
@@ -600,7 +601,450 @@
                         </div>
                       </div>                      
                     </div>
-                    <div class="tab-pane fade" id="community-initiatives" role="tabpanel" aria-labelledby="community-initiatives-tab">...community-initiatives</div>
+                    <div class="tab-pane fade" id="community-initiatives" role="tabpanel" aria-labelledby="community-initiatives-tab">
+                      <div class="row"  style="text-align:left;">    
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h4 style="font-weight: bold;color:#dcaa0a;">A.   Program for the Development of the Host and Neighboring Communities</h4>
+                          <p>The Program for the Development of the Host and Neighboring Communities is a government mandate for Contractors/Permit Holders/Lessees to assist in the development of the host and neighboring communities in accordance with its SDMPto promote the general welfare of the inhabitants living therein.  The first Five-Years of SDMP implementation is on its way to completion towards the end of this CY 2021.  Early on, in an unprecedented decision of the majority, it was decided in a community consultation called for the purpose that there will be seventeen Barangays (4 in the Municipality of Kasibu and 12 in the Municipality of Quezon) including the host Barangay of Runruno that will benefit from the sharing agreement for the first Five-Years of the SDMP implementation.  The SDMP fund allocations are being spent on various identified priority projects within the bounds of creditable activities following the mandatory process of community consultation along the six areas of development interventions as follows:</p>
+                          <p>1. Human Resources and Institution Building</p>
+                          <p>2. Enterprise Development and Networking</p>
+                          <p>3. Assistance to Infrastructure Development and Support Services</p>
+                          <p>4. Access to Education and Educational Support Program</p>
+                          <p>5. Access to Health Services, Health Facilities and Health Professionals</p>
+                          <p>6. Protection and Respect of Socio-Cultural Values</p>
+                        </div>   
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h2 style="font-weight: bold;">PHOTO DOCUMENTATION </h2>
+                          <h4 style="font-weight: bold;color:#dcaa0a;">I. Human Resources and Institution Building </h4>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 1 Advance Training on DRRM</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 2 Basic Book Keeping for CBOs</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 3 Training on Tour Guide and Life Guard</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 4 Barangay Runruno Trade Fair</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 5 Capacity Building and Empowerment</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 6 SPES</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 7 First Training-Barangay Papaya</p>
+                        </div> 
+                        
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h4 style="font-weight: bold;color:#dcaa0a;">II. Enterprise Development and Networking</h4>
+                        </div>                         
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 8 Sewing of trapal ordered by FCF warehouse Runo Sewing Services</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 9 Sewing of trapal ordered by FCF warehouse Runo Sewing Services</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 10 IRISE (Innovative-Runruno-Integrate-Sustainable-Earn) Hollow Block Making</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 11 IRISE (Innovative-Runruno-Integrate-Sustainable-Earn) Hollow Block Making</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 12 Drying and shredding plastic wastes IRISE from Waste Program</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 13 Drying and shredding plastic wastes IRISE from Waste Program</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 14 Runruno Indigenous People’s organization (RIPO) Loom Weaving</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 15 Runruno Indigenous People’s organization (RIPO) Loom Weaving</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 16 Barangay Darubba Dress Making Project Quezon Enterprise Development Association (QEDA)</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 17 Barangay Darubba Dress Making Project Quezon Enterprise Development Association (QEDA)</p>
+                        </div> 
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h4 style="font-weight: bold;color:#dcaa0a;">III. Assistance to Infrastructure Development and Support Services </h4>
+                        </div>     
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 18 FTMR-Lintungan, Runrunoi</p>
+                        </div>  
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 19 Multi-Purpose Drying Pavement-Runruno</p>
+                        </div>  
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 20 Irrigation Canal-Buliwao</p>
+                        </div>  
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 21 Runruno Barangay Hall Building</p>
+                        </div>  
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 22 Irrigation Canal-Buliwao</p>
+                        </div>  
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 23 Hanging Bridge-Maasin</p>
+                        </div>  
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h4 style="font-weight: bold;color:#dcaa0a;">IV. Access to Education and Educational Support </h4>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 41 Runruno Scholars</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 24 ALS National Examination</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 25 ALS Graduate</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 26 Day Care Worker</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 27 E-Learning Program</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 28 Runruno E/S MP Hall</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 29 RNHS K to 12 Workshop Building</p>
+                        </div> 
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h4 style="font-weight: bold;color:#dcaa0a;">V. Access to Health Services, Facilities and Professionals</h4>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 30 Runruno Feeding Program</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 31 Runruno Blood Letting</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 32 Runruno Ambulance</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 33 Incentive of Health Workers</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 34 Support to Community due to COVID 19</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 35 Support to Community due to COVID 19</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 36 Health Supplies-Aurora</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 37 Municipal SLF-Quezon</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 38  Health Supplies-Dagupan</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 39 Medical Supplies-Runruno</p>
+                        </div> 
+                        
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h4 style="font-weight: bold;color:#dcaa0a;">VI. Protection and Respect of Socio Cultural Values</h4>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 40 Runruno Barangay Christmas Program</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 41 Runruno Barangay Christmas Program</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 42 Support to the Conduct of Dagup Ad Papaya</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 43 Support to the Conduct of Dagup Ad Papaya</p>
+                        </div> 
+                        
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h4 style="font-weight: bold;color:#dcaa0a;">B.  Information, Communication and Education Program : 15% </h4>
+                          <p>The program for the promotion of public and awareness and education on mining and geosciences is allocated a 15% from the annual operating expenditures of the projects.  Aimed at increasing awareness and understanding of the concepts of responsible mining, the Company rolls out comprehensive information to all stakeholders to give updates on status of compliance obligations on safety, health, environment and social development. </p>
+                          <p>Completed programs include conduct of quarterly events as avenues to create an opportunity of learning and educating the stakeholders on the tenets of responsible mining.  Information campaigns using various tools of communication such as one-on-one meetings, community consultations, and informal gatherings are adopted to pursue the mandate to duly inform the stakeholders.</p>
+                          <p>To date, there are three Information Centers that have been established located in Runruno and Aurora, Quezon and another one in Poblacion, Kasibu.  These centers are open to the public to cater to any information needs particularly on project updates and job vacancies as these centers provide free access to the Company.  </p>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h5 style="font-weight: bold;color:#dcaa0a;">Information Centers </h5>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 44</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 45</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 46</p>
+                        </div> 
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h5 style="font-weight: bold;color:#dcaa0a;">Quarterly Advocacy Events</h5>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 47 1st Quarter Event: Earth Hour 2018 at BLGU Caliat.</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 48 2019 2nd  Quarter Event : Talentadong Pamilya </p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 49 4th Quarter Event 2020: Outreach Program and Awareness Campaign at BLGU Maasin</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 50 1st Quarter Event 2021: Tree Planting, Information Campaign and Face Mask Making Contest at BLGU Maddiangat</p>
+                        </div> 
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h5 style="font-weight: bold;color:#dcaa0a;">Information Campaigns/ Meetings and Consultations</h5>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 51  ABCs during their consultation with the FCF Minerals Corporation</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 52  Joint meeting between BLGU Runruno and FCF</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 53 Meeting with MLGU Quezon Mayor and MGB Regional Director</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 54  Meeting with Brgy. Don Mariano Perez officials</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 55 Solano National High School</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 56 Runruno residents</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 57 Road safety IEC in Sitio Tayab</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 58 Information dissemination regarding typhoon AMBO</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 59 BLGU Runruno SDMP Scholars </p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 60:  SM Members of Kasibu</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 61 MLGU Diffun Officials</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 62 BLGU Baresbes</p>
+                        </div> 
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h5 style="font-weight: bold;color:#dcaa0a;">Information and Advocacy Material</h5>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 63 Advocacy shirt 2019</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 64 Advocacy tumbler</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 65 Paperweight Rock Sample</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 66 2020 FCF Calendar</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 67 November-December 2016 Balitok Newspaper</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 68 The Miner’s Journal, July-August 2017 issue: Maiden Issue</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 69 Front page of Balitok newspaper 2020 1st Quarter issue</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 70 Back page of Balitok Newspaper 2020 2nd Quarter issue</p>
+                        </div> 
+                        
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h5 style="font-weight: bold;color:#dcaa0a;">Mine Tours</h5>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 71 BLGU Tadji</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 72 Dippog National High School</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 73 Aldersgate College</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 74 BLGU Dagupan</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 75 La Sallete University</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 76 PCL Nueva Vizcaya chapter</p>
+                        </div> 
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h5 style="font-weight: bold;color:#dcaa0a;">Assisted Organizations</h5>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 77 Nueva Vizcaya Provincial SK Federation</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 78 Lumabang Eagles Club Solano</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 79 MHO Quezon</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 80 86th Infantry (Highlander) Battalion.</p>
+                        </div> 
+                        
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h5 style="font-weight: bold;color:#dcaa0a;">C.  Program for the Development of Mining Technology and Geosciences</h5>
+                          <p>Pursuant to DAO 2010-21, the Program for the Development of Mining Technology and Geosciences is allocated 10% of the annual operating cost.  Creditable activities under this program includes the Scholarship Program for those who want pursue tertiary education on Mining Engineering, Geology, Metallurgy, and Geological Engineering.  The scholarship is open to all interested students coming from all over the Province of Nueva Vizcaya.</p>
+                          <p>To date, a total of 21 students have attained their college diploma while another 18 students are actively pursuing their tertiary education on full scholarship covering free tuition and miscellaneous fees, book and uniform allowances, living allowance and accommodation expenses, as well as expenses for attendance to review classes in preparation to take their National Board Examinations. </p>
+                          <p>In support to the advancement of quality education for the K to 12 Program, the Company is also providing financial assistance for the purchase of laboratory equipment as donation to the national high schools in the Province, especially those offering the STEM strand to upgrade their standards and cope with emerging trends in science and technology.  Assisted so far along this program are the following schools:  Runruno National High School, Bintawan National High School, Lamo National High School and for this year, Pingkian National High School. </p>
+                          <p>The Company’s assistance for education dates back to the exploration stage by way of the Community Development Program (CDP) especially in the pursuit of tertiary education, on the context that education greatly contributes to poverty eradication. Courses pursued were along Forestry, Environmental Science, Business Administration, Education, and Civil and Electrical Engineering.    </p>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 81 Turnover of Laboratory Equipments to Runruno National High School</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 82 Visit to Bintawan National High School for the additional recipients of laboratory Equipment</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 83 Dippog Senior High School Immersion at FCF Minerals Corporation</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 84 Conduct of Annual DMTG Assessment and Planning</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 85 Construction of FCF Scholar’s Organization Park at NVSU Bayombong Campus</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 86 DMTG Scholarship Information Campaign</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 87 Turn-over of Laptop to DMTG Scholars</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 88 Semester-end Review and Year-end get Together</p>
+                        </div> 
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <p style="font-style: italic;">Photo 89 Orientation and Contract Signing of New Scholars</p>
+                        </div> 
+                      </div>
+                    </div>
+                    <div class="tab-pane fade" id="smdp" role="tabpanel" aria-labelledby="smdp-tab">
+                      <div class="row"  style="text-align:left;">    
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12 mt-3">
+                          <h4 style="font-weight: bold;color:#dcaa0a;">The Social Development and Management Program</h4>
+                          <p>The Runruno Gold Molybdenum Project started  its commercial operation by mid-year of 2017. Pursuant to Republic Act 7942 otherwise known as the Philippine Act of 1995, particularly referring to Section 8-C of the Department Order 2010-21, the Role of the Local Government Unit, is “To receive their share as provided for by law in the wealth generated from the utilization of mineral resources and thus enhance economic progress and national development.</p>    
+                          <p>Section 134 of the same DAO stipulates the “Development of Mining Community, Mining Technology and the Geosciences and the Institutionalization of Public Awareness and Education on Mining and the Geosciences” in accordance to the Social Development and Management Program (SDMP).  The SDMP is a government measure to ensure that communities shall benefit from the proceeds of the mining project.  Within this context, the Company is now implementing the SDMP by allotting 1.5% of the annual operational expenses to assist in the development of the host and adjacent communities.  This is further allocated to three component programs as follows:  75% for the Development of the Host and Neighboring Communities, 15% for the Public Information and Education Program, and 10% for the Development of Mining Technology and Geosciences. </p>
+                        </div>  
+                      </div>
+                    </div>
                   </div>
               </div>                            
             </div>
