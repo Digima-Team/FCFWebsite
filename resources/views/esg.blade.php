@@ -132,7 +132,7 @@
 
         <div class="carousel-inner" role="listbox">
 
-          <div class="carousel-item active" style="background-image: url(assets/img/portfolio/minetour.jpg)">
+          <div class="carousel-item active" style="background-image: url(https://ucarecdn.com/1401de37-66d1-468d-8fb6-aa23a51ac133/minetour.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <!-- <h2 class="animate__animated animate__fadeInDown">The Best Business Information </h2>
@@ -618,7 +618,7 @@
                           <h4 style="font-weight: bold;color:#dcaa0a;">I. Human Resources and Institution Building </h4>
                         </div> 
                         <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
-                          <img src="assets/img/about/esgOverview.jpg" alt="" />
+                          <img src="https://ucarecdn.com/ff25743e-6e4b-454c-ae05-d5c4f33bfb27/batteryreplacement.png" alt="" />
                           <p style="font-style: italic;">Photo 1 Advance Training on DRRM</p>
                         </div> 
                         <div class="col-lg-6 col-md-12 col-sm-12 col-xs=12 mt-3">
